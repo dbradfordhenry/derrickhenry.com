@@ -1,0 +1,44 @@
+
+.inner_main {
+	max-width: 450px;
+	margin: 0 auto;
+}
+.float_left {
+	float: left;
+}
+
+.content {
+    clear: both;
+}
+.dh_logo {
+	clear: both;
+	margin: 0 auto;
+}
+.main-nav {
+	margin: 0 auto;
+}
+.center {
+    margin: 0 auto;
+    display: block;
+}
+.main-nav a {
+	text-decoration: none;
+	font-family: sans-serif;
+	color: #D28429;
+	  margin: 0 auto;
+	  float: right;
+	  margin-right: 15px;
+}
+.main {
+	display: table;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.mid_div {
+	display: table-cell;
+    vertical-align: middle;
+}
+img.center {
+	max-width: 85%;
+}
